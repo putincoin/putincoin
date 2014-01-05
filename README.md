@@ -1,4 +1,4 @@
-FedoraCoin, based on DogeCoin with parts from StableCoin
+PutIn Coin, based on FedoraCoin
 
 Scrypt Proof of Work
 
